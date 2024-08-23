@@ -1,0 +1,99 @@
+  body {
+    background-image: url('https://i.pinimg.com/564x/e8/7e/b4/e87eb4a310de48ea4ff840f685a7ee70.jpg');
+    background-size: auto;
+    background-repeat: repeat;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.69);
+    background-blend-mode: overlay;
+  }
+  h {
+    background-color: rgb(255, 255, 255);
+    color: black;
+  }
+  p1 {
+    background-color: rgb(69, 69, 69);
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  p2 {
+    background-color: midnightblue;
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  p3 {
+    background-color: sienna;
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  p4 {
+    background-color: rgb(149, 149, 149);
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  p5 {
+    background-color: rgb(255, 115, 222);
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  p6 {
+    background-color: black;
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  p7 {
+    background-color: skyblue;
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  p8 {
+    background-color: rgb(197, 0, 0);
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  p9 {
+    background-color: rgb(179, 9, 179);
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  p10 {
+    background-color: gold;
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  p11 {
+    background-color: rgb(13, 190, 40);
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  p {
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(44, 44, 44);
+  }
+  button {
+    background-color: rgb(147, 147, 147);
+    color: black;
+    size: 50px;
+  }
